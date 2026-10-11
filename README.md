@@ -6,9 +6,12 @@ En este perfil comparto mis proyectos, códigos y recursos para que otros creado
 🔧 ¿Qué hago?
 
 💻 Desarrollo comandos y sistemas para BDFD.
+
 🛠️ Busco soluciones a errores y problemas de código.
+
 📂 Comparto proyectos y recursos en GitHub.
- 🎥 Trabajo en ideas para tutoriales y contenido educativo.
+
+🎥 Trabajo en ideas para tutoriales y contenido educativo.
 
 🎯 Mi objetivo
 
